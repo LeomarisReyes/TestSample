@@ -10,5 +10,6 @@
            <Image Source = "Logo" WidthRequest="70" HeightRequest="90" />
            <ListView x:Name                 = "lvNames"   
                      IsPullToRefreshEnabled = "true" /> 
+        <Button Text="tesbtn" />
     </StackLayout>
 </ContentPage>
