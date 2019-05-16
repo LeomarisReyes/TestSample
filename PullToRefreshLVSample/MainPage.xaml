@@ -8,6 +8,5 @@
            <Image Source = "Logo" WidthRequest="70" HeightRequest="90" />
            <ListView x:Name                 = "lvNames"   
                      IsPullToRefreshEnabled = "true" /> 
-        <Label Text="Sample 1" />
     </StackLayout>
 </ContentPage>
