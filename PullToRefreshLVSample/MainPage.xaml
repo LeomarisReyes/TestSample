@@ -5,7 +5,7 @@
              x:Class="PullToRefreshLVSample.MainPage">
     
     <StackLayout Orientation="Vertical"> 
-        <Label Text="Test" />
+        <Label Text="Test" /> 
            <Image Source = "Logo" WidthRequest="70" HeightRequest="90" />
            <ListView x:Name                 = "lvNames"   
                      IsPullToRefreshEnabled = "true" /> 
